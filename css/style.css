@@ -2915,7 +2915,8 @@ body {
   overflow: auto;
   height: auto;
   font-size: 100%;
-  background: url(../img/icloud.png) repeat fixed !important;
+  /* background: url(../img/icloud.png) repeat fixed !important; */
+  background: src(particles-js);
   background-attachment: fixed;
   overflow: auto;
   font-family: "Helvetica Neue", "Microsoft Yahei", SimHei, sans-serif;
